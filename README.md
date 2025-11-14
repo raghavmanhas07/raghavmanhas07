@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavmanhas07&label=Profile%20views&color=0e75b6&style=flat" alt="raghavmanhas07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavmanhas07" alt="raghavmanhas07" /></a> </p>
 
 - 🌱 I’m currently learning **Power BI DAX, End-to-end Analytics Project Workflow, Dashboard storytelling techniques**
 
