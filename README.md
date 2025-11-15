@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Manhas</h1>
 <h3 align="center">An aspiring Data Analyst passionate about turning raw data into meaningful insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavmanhas07&label=Profile%20views&color=0e75b6&style=flat" alt="raghavmanhas07" /> </p>
+
 
 
 - 🌱 I’m currently learning **Power BI DAX, End-to-end Analytics Project Workflow, Dashboard storytelling techniques**
