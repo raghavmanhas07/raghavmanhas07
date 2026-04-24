@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Manhas</h1>
 
-- 🌱 I’m currently learning **Power BI DAX , End-to-end Analytics Project Workflow,Dashboard storytelling techniques**
-
 - 📫 How to reach me **raghavmanhas785@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
