@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raghav Manhas</h1>
-<h3 align="center">An aspiring Data Analyst passionate about turning raw data into meaningful insights.</h3>
 
 - 🌱 I’m currently learning **Power BI DAX , End-to-end Analytics Project Workflow,Dashboard storytelling techniques**
 
